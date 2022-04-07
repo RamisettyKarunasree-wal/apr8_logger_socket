@@ -1,0 +1,26 @@
+.links {
+  color: white;
+  padding: 5px;
+  text-decoration: none;
+}
+.links:hover {
+  border: 3px solid white;
+  color: white;
+}
+.active {
+  border: 3px solid white;
+}
+h1 {
+  text-align: center;
+  border-bottom: 3px solid maroon;
+}
+.error,
+.msg {
+  font-weight: bold;
+  font-style: italic;
+  color: rgb(173, 49, 49);
+  text-align: center;
+}
+.msg {
+  color: green;
+}
